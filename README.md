@@ -1,3 +1,3 @@
 # header
 
-DESCRIBE THIS!
+DESCRIBE
